@@ -126,8 +126,3 @@ while game_on:
                 for num in range(3):
                     player_one_cards.append(player_one.remove_one())
                     player_two_cards.append(player_two.remove_one())
-
-        
-
-    
-    
